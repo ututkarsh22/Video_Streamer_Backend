@@ -1,4 +1,6 @@
 //ye hum laaye h git ignore genreator se node ke liye and isme mainly wo files jo ki github pe ni dalni chaiye ex env and nodemoudles
+//.prettierrc me jo lika h whi consistent chlga code base me kitne tab hone chaiye semicolon hona h ya ni ye sb prettier me decide krte h kykuki bhut log kam krenge and conflict na ho isiye
+
 
 # Logs
 logs
