@@ -1,0 +1,16 @@
+{
+  "name": "video_streamer_backend",
+  "version": "1.0.0",
+  "description": "This is the video streamer platform",
+  "keywords": [
+    "javascript",
+    "nodeJs"
+  ],
+  "license": "ISC",
+  "author": "Utkarsh Trivedi",
+  "type": "modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
